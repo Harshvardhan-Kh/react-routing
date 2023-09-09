@@ -1,0 +1,31 @@
+.navbar{
+    background-color: rgb(255, 136, 0);
+    width: 100%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+.logo-item {
+    width: 50%;
+}
+.logo {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-image:url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-W6CvOLtgOXyyX-7rvFqid3yuZzttxFwp4PzPk_yfo2FztEM8YoyW0wGzaRg8M8XzHr6YKQWRT-sHI5_kvD5WUhTQkvnMoO-RwHfNb0pLimTaLZ6M3R5qda_PLhBcZ6FUP1V2UEbE4bR6iickKk8DiSzaPCww5QCBZTkhHpMScHD0avPRQjKFWWgB/s320/IMG_20220519_212640.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.menu {
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+}
+.menu-items {
+    -webkit-text-stroke: 0.7px rgb(9, 9, 8);
+    color: transparent;
+    font-size: 23px;
+    text-decoration: none;
+}
